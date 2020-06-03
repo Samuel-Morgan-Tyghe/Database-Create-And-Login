@@ -1,7 +1,6 @@
 
 # Database Create And Login
-A Create Account and Login page that stores users details on an online database using SQl, phpMyAdmin.
-Passwords are encrypted using jBCrypt.
+An application to simulate the secure login process.Containg a Create Account and Login page that stores user details on an online database using SQl, phpMyAdmin.Passwords are encrypted using jBCrypt.
 # What I Learnt
 * JDBC Basics:
 
