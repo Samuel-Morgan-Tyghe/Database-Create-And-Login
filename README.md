@@ -10,7 +10,7 @@ An application to simulate the secure login process. Containing a Create Account
   * Sending queries and retrieving data from your database.
   * Using Prepared Statements for dynamic querys.
 
-* How to install and use jBCrypt
+* How to install and use jBCrypt.
 # What I can improve
 * Use char array for password to improve security
 * In create account java condense the code to check database that username isnt used, if so write in username and password
